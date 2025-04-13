@@ -1,0 +1,19 @@
+---
+layout: base
+---
+<article class="post">
+
+  <header class="post-header">
+    {%- if page.pretitle -%}
+    <h1 class="pre-title">{{ page.pretitle }}</h1>
+    <h1 class="nav-title">{{ page.navtitle | escape }}</h1>
+    {%- elsif page.title -%}
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {%- endif -%}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
