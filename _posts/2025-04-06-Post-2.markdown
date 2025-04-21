@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Post 2"
+date:   2025-04-06 15:18:09 +0200
+---
+
+This is post 2.
+

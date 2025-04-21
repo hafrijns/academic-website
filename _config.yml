@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Helena Anna Frijns
+title: Academic Researcher
 description: >- # this means to ignore newlines until "baseurl:"
-  Description
+  This is a template for an academic website, based on the Minima template and minimal adaptations
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hafrijns
-linkedin_username: helenafrijns
+#linkedin_username: 
 scholar_username: -BHOVS4AAAAJ
 
 # Build settings

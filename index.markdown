@@ -6,6 +6,7 @@ layout: home
 order: 0
 ---
 
-I am a postdoctoral researcher focused on interaction design and interface design in Human-Robot Interaction and Human-AI interaction. My current research interests include adaptation and learning of users in interaction with technologies, user mental models in interaction, and interface and interaction design for Human-Robot Collaboration scenarios. I am currently at the [Intelligent User Interfaces group at IT:U](https://it-u.at/en/research/research-groups/intelligent-user-interfaces/).
+This is a template for an academic website using Jekyll, hosted on GitHub Pages. See the [Jekyll Quickstart guide](https://jekyllrb.com/docs/). The site uses the default Minima theme (latest stable, [Minima](https://rubygems.org/gems/minima) 2.5.2,). Feel free to reuse. I added minimal adaptations: sorting of the pages in the navigation bar, a custom scholar icon and some other edits. 
 
-![Diagram of Human-Robot Interaction](/assets/images/HRI.png)
+![This is a hat](/assets/images/profilephoto.png)
+ 
