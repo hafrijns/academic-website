@@ -7,7 +7,7 @@ permalink: /Page1/
 order: 1
 ---
 
-<img class="profilepic" src="{{ '/assets/images/profilephoto.png' | relative_url }}">
+<img class="profilepic" src="{{ '/assets/images/hatonblue.png' | relative_url }}">
 
 
 
