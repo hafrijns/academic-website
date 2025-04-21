@@ -11,9 +11,7 @@ order: 1
 
 
 
-Researcher name is a researcher at University. This is a template for an academic website, based on the default Minima theme (latest stable, 2.5.2, see [Minima](https://rubygems.org/gems/minima)) and minimal adaptations. Feel free to reuse. I added sorting of the pages in the navigation bar, a custom scholar icon and some other edits. See the [Jekyll Quickstart guide](https://jekyllrb.com/docs/).
-
-
+Researcher name is a researcher at University. 
 
 <h3> Research interests </h3>
 
