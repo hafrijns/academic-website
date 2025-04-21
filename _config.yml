@@ -22,7 +22,7 @@ title: Academic Researcher
 description: >- # this means to ignore newlines until "baseurl:"
   This is a template for an academic website, based on the Minima template and minimal adaptations
 baseurl: "/academic-website" # the subpath of your site, e.g. /blog
-url: "https://username.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hafrijns.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hafrijns
 #linkedin_username: 
 scholar_username: -BHOVS4AAAAJ
